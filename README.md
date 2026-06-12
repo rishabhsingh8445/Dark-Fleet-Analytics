@@ -13,6 +13,13 @@ This project is a complete **End-to-End Data Engineering & Analytics pipeline** 
 
 ---
 
+## 📂 Data Source
+Due to GitHub's file size limits, the original raw 1.1 Million rows CSV (241MB) is not hosted in this repository. 
+You can access the raw dataset directly from Kaggle:
+👉 **[AIS Ship Tracking - Vessel Dynamics and ETA Data](https://www.kaggle.com/datasets/satyamrajput7913/ais-ship-tracking-vessel-dynamics-and-eta-data)**
+
+---
+
 ## 🛠️ Tech Stack & Architecture
 
 1. **Data Engineering (Python & Pandas):** 
