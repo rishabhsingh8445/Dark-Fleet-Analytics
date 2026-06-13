@@ -2,8 +2,8 @@ import pandas as pd
 
 print("Starting Anomaly Detection on REAL AIS Data (Dark Fleet Tracker)...")
 
-input_file = "C:\\Users\\rshbh\\.gemini\\antigravity\\scratch\\processed_AIS_dataset.csv"
-output_file = "C:\\Users\\rshbh\\.gemini\\antigravity\\scratch\\final_dark_fleet_powerbi.csv"
+input_file = "C:\\Users\\rshbh\\downloads\\processed_AIS_dataset.csv"
+output_file = "C:\\Users\\rshbh\\downloads\\final_dark_fleet_powerbi.csv"
 
 # 1. Load the raw AIS data (Only loading necessary columns to save RAM)
 print("Loading 1 Million+ rows of REAL AIS data...")
